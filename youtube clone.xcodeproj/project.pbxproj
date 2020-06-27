@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		094AD4C324A79952001DB280 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094AD4C224A79952001DB280 /* ConstantsTemplate.swift */; };
+		094AD4C524A7A571001DB280 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094AD4C424A7A571001DB280 /* Response.swift */; };
 		0972733924A66D2D00C6CED8 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972733824A66D2D00C6CED8 /* Constants.swift */; };
 		0972733B24A66F9C00C6CED8 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972733A24A66F9C00C6CED8 /* Video.swift */; };
 		0972733D24A6700A00C6CED8 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972733C24A6700A00C6CED8 /* Model.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		094AD4C224A79952001DB280 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
+		094AD4C424A7A571001DB280 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		0972733824A66D2D00C6CED8 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		0972733A24A66F9C00C6CED8 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		0972733C24A6700A00C6CED8 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				094AD4C224A79952001DB280 /* ConstantsTemplate.swift */,
 				0972733A24A66F9C00C6CED8 /* Video.swift */,
 				0972733C24A6700A00C6CED8 /* Model.swift */,
+				094AD4C424A7A571001DB280 /* Response.swift */,
 			);
 			path = "youtube clone";
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				094AD4C524A7A571001DB280 /* Response.swift in Sources */,
 				094AD4C324A79952001DB280 /* ConstantsTemplate.swift in Sources */,
 				09C6911F24A65DD900B57AF3 /* ViewController.swift in Sources */,
 				09C6911B24A65DD900B57AF3 /* AppDelegate.swift in Sources */,
